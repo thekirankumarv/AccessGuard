@@ -188,6 +188,7 @@ a {
     -o-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
     transition: all 0.3s ease;
+    color:#d1145f;
 }
 
 /*-----------------------------------------------------*/
@@ -14613,6 +14614,7 @@ section {
 
 .topic {
     color: #0e0c0d;
+    font-weight: bolder;
 }
 
 .rec {
